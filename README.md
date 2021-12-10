@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @HeroicSoftware
+- 👋 Hi, I’m Jordan. I'm a student, hobbyist, and full-time software developer
 - 👀 I’m interested in C programming, SDL2, and game development
 - 🌱 I’m currently learning C programming, SDL2, and game development
+- This github is just a repository for my various scraps of code nothing to see here. 
